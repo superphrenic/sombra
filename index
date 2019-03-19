@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>sombra.online</title>
+</head>
+
+<body><center><br><br><br><br><br><br><br><br><br>
+	<body style="background-color:#551A8B;">
+	<div id="center-container">
+		<img src="https://i.imgur.com/5ihRjVJ.jpg" id="center-image" onclick="Sombra()">
+		<audio id="SombraOnline" src="https://github.com/superphrenic/sombra/blob/master/Sombra%20Online.mp3" audio autoplay="play" hidden="true" audio loop="loop"></audio>
+		</div>
+</body>
+</html>
